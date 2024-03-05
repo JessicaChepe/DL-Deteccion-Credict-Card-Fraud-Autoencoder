@@ -19,3 +19,6 @@ Durante el entrenamiento, un autoencoder intenta minimizar la diferencia entre l
 ![image](https://github.com/JessicaChepe/DL-Deteccion-Credict-Card-Fraud-Autoencoder/assets/104339906/00b15f53-f539-4cc8-89cc-82d2827adb17)
 
 Imagen(freepik)
+
+✅ Subido en Kagle:
+👉 https://www.kaggle.com/code/jessicachepe/credict-card-fraud-autoencoder
